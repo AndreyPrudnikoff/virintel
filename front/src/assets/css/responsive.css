@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px) {
+    .handle-btn-sbm {
+        width: 90%;
+    }
+    .ellipse-btn {
+        width: 100%;
+    }
+}
+
